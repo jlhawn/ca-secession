@@ -1,0 +1,3598 @@
+{
+  "alameda": {
+    "name": "Alameda",
+    "population": 1671329,
+    "contests": {
+      "prop-14": {
+        "yes": 439707,
+        "no": 285644
+      },
+      "prop-15": {
+        "yes": 479858,
+        "no": 260391
+      },
+      "prop-16": {
+        "yes": 430375,
+        "no": 299893
+      },
+      "prop-17": {
+        "yes": 545854,
+        "no": 193018
+      },
+      "prop-18": {
+        "yes": 441290,
+        "no": 297210
+      },
+      "prop-19": {
+        "yes": 412973,
+        "no": 302862
+      },
+      "prop-20": {
+        "yes": 210039,
+        "no": 504012
+      },
+      "prop-21": {
+        "yes": 363735,
+        "no": 364105
+      },
+      "prop-22": {
+        "yes": 330777,
+        "no": 402867
+      },
+      "prop-23": {
+        "yes": 319774,
+        "no": 405261
+      },
+      "prop-24": {
+        "yes": 416554,
+        "no": 304029
+      },
+      "prop-25": {
+        "yes": 400624,
+        "no": 303445
+      },
+      "president": {
+        "Joseph R. Biden": 602851,
+        "Donald J. Trump": 131985,
+        "Roque \"Rocky\" De La Fuente Guerra": 2252,
+        "Howie Hawkins": 4509,
+        "Jo Jorgensen": 6119,
+        "Gloria La Riva": 2412
+      }
+    }
+  },
+  "alpine": {
+    "name": "Alpine",
+    "population": 1129,
+    "contests": {
+      "prop-14": {
+        "yes": 409,
+        "no": 303
+      },
+      "prop-15": {
+        "yes": 400,
+        "no": 316
+      },
+      "prop-16": {
+        "yes": 336,
+        "no": 367
+      },
+      "prop-17": {
+        "yes": 464,
+        "no": 256
+      },
+      "prop-18": {
+        "yes": 337,
+        "no": 379
+      },
+      "prop-19": {
+        "yes": 410,
+        "no": 295
+      },
+      "prop-20": {
+        "yes": 196,
+        "no": 505
+      },
+      "prop-21": {
+        "yes": 320,
+        "no": 393
+      },
+      "prop-22": {
+        "yes": 309,
+        "no": 395
+      },
+      "prop-23": {
+        "yes": 338,
+        "no": 365
+      },
+      "prop-24": {
+        "yes": 290,
+        "no": 412
+      },
+      "prop-25": {
+        "yes": 385,
+        "no": 314
+      },
+      "president": {
+        "Joseph R. Biden": 473,
+        "Donald J. Trump": 238,
+        "Roque \"Rocky\" De La Fuente Guerra": 0,
+        "Howie Hawkins": 4,
+        "Jo Jorgensen": 14,
+        "Gloria La Riva": 2
+      }
+    }
+  },
+  "amador": {
+    "name": "Amador",
+    "population": 39752,
+    "contests": {
+      "prop-14": {
+        "yes": 7340,
+        "no": 14457
+      },
+      "prop-15": {
+        "yes": 5692,
+        "no": 16346
+      },
+      "prop-16": {
+        "yes": 4065,
+        "no": 17713
+      },
+      "prop-17": {
+        "yes": 7609,
+        "no": 14439
+      },
+      "prop-18": {
+        "yes": 4733,
+        "no": 17362
+      },
+      "prop-19": {
+        "yes": 8069,
+        "no": 13520
+      },
+      "prop-20": {
+        "yes": 10180,
+        "no": 11388
+      },
+      "prop-21": {
+        "yes": 4623,
+        "no": 17069
+      },
+      "prop-22": {
+        "yes": 14619,
+        "no": 7125
+      },
+      "prop-23": {
+        "yes": 4608,
+        "no": 17134
+      },
+      "prop-24": {
+        "yes": 8951,
+        "no": 12662
+      },
+      "prop-25": {
+        "yes": 6005,
+        "no": 15453
+      },
+      "president": {
+        "Joseph R. Biden": 8147,
+        "Donald J. Trump": 13571,
+        "Roque \"Rocky\" De La Fuente Guerra": 64,
+        "Howie Hawkins": 110,
+        "Jo Jorgensen": 349,
+        "Gloria La Riva": 41
+      }
+    }
+  },
+  "butte": {
+    "name": "Butte",
+    "population": 219186,
+    "contests": {
+      "prop-14": {
+        "yes": 41613,
+        "no": 55606
+      },
+      "prop-15": {
+        "yes": 37428,
+        "no": 61194
+      },
+      "prop-16": {
+        "yes": 28985,
+        "no": 68449
+      },
+      "prop-17": {
+        "yes": 47006,
+        "no": 51693
+      },
+      "prop-18": {
+        "yes": 32516,
+        "no": 66394
+      },
+      "prop-19": {
+        "yes": 45047,
+        "no": 51387
+      },
+      "prop-20": {
+        "yes": 42221,
+        "no": 54180
+      },
+      "prop-21": {
+        "yes": 30606,
+        "no": 66595
+      },
+      "prop-22": {
+        "yes": 61686,
+        "no": 35966
+      },
+      "prop-23": {
+        "yes": 28433,
+        "no": 69078
+      },
+      "prop-24": {
+        "yes": 45785,
+        "no": 50596
+      },
+      "prop-25": {
+        "yes": 34780,
+        "no": 61327
+      },
+      "president": {
+        "Joseph R. Biden": 49402,
+        "Donald J. Trump": 47568,
+        "Roque \"Rocky\" De La Fuente Guerra": 312,
+        "Howie Hawkins": 495,
+        "Jo Jorgensen": 1728,
+        "Gloria La Riva": 275
+      }
+    }
+  },
+  "calaveras": {
+    "name": "Calaveras",
+    "population": 45905,
+    "contests": {
+      "prop-14": {
+        "yes": 9149,
+        "no": 16842
+      },
+      "prop-15": {
+        "yes": 7086,
+        "no": 19224
+      },
+      "prop-16": {
+        "yes": 5160,
+        "no": 20820
+      },
+      "prop-17": {
+        "yes": 9714,
+        "no": 16587
+      },
+      "prop-18": {
+        "yes": 5742,
+        "no": 20675
+      },
+      "prop-19": {
+        "yes": 10301,
+        "no": 15533
+      },
+      "prop-20": {
+        "yes": 11807,
+        "no": 13908
+      },
+      "prop-21": {
+        "yes": 5436,
+        "no": 20464
+      },
+      "prop-22": {
+        "yes": 17421,
+        "no": 8518
+      },
+      "prop-23": {
+        "yes": 5421,
+        "no": 20623
+      },
+      "prop-24": {
+        "yes": 10716,
+        "no": 15057
+      },
+      "prop-25": {
+        "yes": 7487,
+        "no": 18274
+      },
+      "president": {
+        "Joseph R. Biden": 9845,
+        "Donald J. Trump": 16287,
+        "Roque \"Rocky\" De La Fuente Guerra": 69,
+        "Howie Hawkins": 120,
+        "Jo Jorgensen": 352,
+        "Gloria La Riva": 44
+      }
+    }
+  },
+  "colusa": {
+    "name": "Colusa",
+    "population": 21547,
+    "contests": {
+      "prop-14": {
+        "yes": 2726,
+        "no": 4780
+      },
+      "prop-15": {
+        "yes": 2241,
+        "no": 5335
+      },
+      "prop-16": {
+        "yes": 1770,
+        "no": 5685
+      },
+      "prop-17": {
+        "yes": 2699,
+        "no": 4852
+      },
+      "prop-18": {
+        "yes": 1751,
+        "no": 5816
+      },
+      "prop-19": {
+        "yes": 3103,
+        "no": 4337
+      },
+      "prop-20": {
+        "yes": 3598,
+        "no": 3838
+      },
+      "prop-21": {
+        "yes": 1708,
+        "no": 5794
+      },
+      "prop-22": {
+        "yes": 5131,
+        "no": 2381
+      },
+      "prop-23": {
+        "yes": 1908,
+        "no": 5619
+      },
+      "prop-24": {
+        "yes": 3197,
+        "no": 4210
+      },
+      "prop-25": {
+        "yes": 2050,
+        "no": 5374
+      },
+      "president": {
+        "Joseph R. Biden": 3114,
+        "Donald J. Trump": 4399,
+        "Roque \"Rocky\" De La Fuente Guerra": 28,
+        "Howie Hawkins": 25,
+        "Jo Jorgensen": 79,
+        "Gloria La Riva": 27
+      }
+    }
+  },
+  "contra-costa": {
+    "name": "Contra Costa",
+    "population": 1153526,
+    "contests": {
+      "prop-14": {
+        "yes": 312699,
+        "no": 242253
+      },
+      "prop-15": {
+        "yes": 307079,
+        "no": 254940
+      },
+      "prop-16": {
+        "yes": 262390,
+        "no": 290406
+      },
+      "prop-17": {
+        "yes": 361180,
+        "no": 196547
+      },
+      "prop-18": {
+        "yes": 271191,
+        "no": 287813
+      },
+      "prop-19": {
+        "yes": 316353,
+        "no": 233332
+      },
+      "prop-20": {
+        "yes": 191559,
+        "no": 354127
+      },
+      "prop-21": {
+        "yes": 223060,
+        "no": 324596
+      },
+      "prop-22": {
+        "yes": 296693,
+        "no": 254686
+      },
+      "prop-23": {
+        "yes": 205490,
+        "no": 343100
+      },
+      "prop-24": {
+        "yes": 327929,
+        "no": 219466
+      },
+      "prop-25": {
+        "yes": 277008,
+        "no": 268197
+      },
+      "president": {
+        "Joseph R. Biden": 407639,
+        "Donald J. Trump": 148623,
+        "Roque \"Rocky\" De La Fuente Guerra": 1868,
+        "Howie Hawkins": 2551,
+        "Jo Jorgensen": 5970,
+        "Gloria La Riva": 1231
+      }
+    }
+  },
+  "del-norte": {
+    "name": "Del Norte",
+    "population": 27812,
+    "contests": {
+      "prop-14": {
+        "yes": 4003,
+        "no": 7153
+      },
+      "prop-15": {
+        "yes": 4032,
+        "no": 7257
+      },
+      "prop-16": {
+        "yes": 2681,
+        "no": 8503
+      },
+      "prop-17": {
+        "yes": 4654,
+        "no": 6626
+      },
+      "prop-18": {
+        "yes": 3108,
+        "no": 8212
+      },
+      "prop-19": {
+        "yes": 4458,
+        "no": 6594
+      },
+      "prop-20": {
+        "yes": 5513,
+        "no": 5520
+      },
+      "prop-21": {
+        "yes": 2969,
+        "no": 8070
+      },
+      "prop-22": {
+        "yes": 6417,
+        "no": 4646
+      },
+      "prop-23": {
+        "yes": 3777,
+        "no": 7314
+      },
+      "prop-24": {
+        "yes": 5176,
+        "no": 5893
+      },
+      "prop-25": {
+        "yes": 3414,
+        "no": 7582
+      },
+      "president": {
+        "Joseph R. Biden": 4656,
+        "Donald J. Trump": 6434,
+        "Roque \"Rocky\" De La Fuente Guerra": 53,
+        "Howie Hawkins": 78,
+        "Jo Jorgensen": 149,
+        "Gloria La Riva": 33
+      }
+    }
+  },
+  "el-dorado": {
+    "name": "El Dorado",
+    "population": 192843,
+    "contests": {
+      "prop-14": {
+        "yes": 42606,
+        "no": 69051
+      },
+      "prop-15": {
+        "yes": 35478,
+        "no": 77909
+      },
+      "prop-16": {
+        "yes": 26188,
+        "no": 85620
+      },
+      "prop-17": {
+        "yes": 46247,
+        "no": 66919
+      },
+      "prop-18": {
+        "yes": 30961,
+        "no": 82772
+      },
+      "prop-19": {
+        "yes": 46122,
+        "no": 64554
+      },
+      "prop-20": {
+        "yes": 50276,
+        "no": 59566
+      },
+      "prop-21": {
+        "yes": 26853,
+        "no": 84207
+      },
+      "prop-22": {
+        "yes": 75319,
+        "no": 36385
+      },
+      "prop-23": {
+        "yes": 28144,
+        "no": 83146
+      },
+      "prop-24": {
+        "yes": 49720,
+        "no": 60847
+      },
+      "prop-25": {
+        "yes": 35456,
+        "no": 74479
+      },
+      "president": {
+        "Joseph R. Biden": 51157,
+        "Donald J. Trump": 60967,
+        "Roque \"Rocky\" De La Fuente Guerra": 229,
+        "Howie Hawkins": 453,
+        "Jo Jorgensen": 1854,
+        "Gloria La Riva": 106
+      }
+    }
+  },
+  "fresno": {
+    "name": "Fresno",
+    "population": 999101,
+    "contests": {
+      "prop-14": {
+        "yes": 161555,
+        "no": 184938
+      },
+      "prop-15": {
+        "yes": 142700,
+        "no": 207741
+      },
+      "prop-16": {
+        "yes": 115215,
+        "no": 230920
+      },
+      "prop-17": {
+        "yes": 163013,
+        "no": 187202
+      },
+      "prop-18": {
+        "yes": 115654,
+        "no": 235015
+      },
+      "prop-19": {
+        "yes": 168466,
+        "no": 174437
+      },
+      "prop-20": {
+        "yes": 172298,
+        "no": 170601
+      },
+      "prop-21": {
+        "yes": 104727,
+        "no": 241117
+      },
+      "prop-22": {
+        "yes": 227829,
+        "no": 120402
+      },
+      "prop-23": {
+        "yes": 114189,
+        "no": 233541
+      },
+      "prop-24": {
+        "yes": 180657,
+        "no": 162735
+      },
+      "prop-25": {
+        "yes": 113379,
+        "no": 229828
+      },
+      "president": {
+        "Joseph R. Biden": 188224,
+        "Donald J. Trump": 160689,
+        "Roque \"Rocky\" De La Fuente Guerra": 1101,
+        "Howie Hawkins": 1440,
+        "Jo Jorgensen": 3910,
+        "Gloria La Riva": 640
+      }
+    }
+  },
+  "glenn": {
+    "name": "Glenn",
+    "population": 28393,
+    "contests": {
+      "prop-14": {
+        "yes": 3466,
+        "no": 7221
+      },
+      "prop-15": {
+        "yes": 2693,
+        "no": 8078
+      },
+      "prop-16": {
+        "yes": 2079,
+        "no": 8534
+      },
+      "prop-17": {
+        "yes": 3530,
+        "no": 7169
+      },
+      "prop-18": {
+        "yes": 2150,
+        "no": 8561
+      },
+      "prop-19": {
+        "yes": 3943,
+        "no": 6588
+      },
+      "prop-20": {
+        "yes": 5451,
+        "no": 5112
+      },
+      "prop-21": {
+        "yes": 2069,
+        "no": 8617
+      },
+      "prop-22": {
+        "yes": 7477,
+        "no": 3211
+      },
+      "prop-23": {
+        "yes": 2343,
+        "no": 8338
+      },
+      "prop-24": {
+        "yes": 4540,
+        "no": 6097
+      },
+      "prop-25": {
+        "yes": 2444,
+        "no": 8118
+      },
+      "president": {
+        "Joseph R. Biden": 3815,
+        "Donald J. Trump": 6854,
+        "Roque \"Rocky\" De La Fuente Guerra": 37,
+        "Howie Hawkins": 32,
+        "Jo Jorgensen": 120,
+        "Gloria La Riva": 32
+      }
+    }
+  },
+  "humboldt": {
+    "name": "Humboldt",
+    "population": 135558,
+    "contests": {
+      "prop-14": {
+        "yes": 21969,
+        "no": 22515
+      },
+      "prop-15": {
+        "yes": 24701,
+        "no": 20568
+      },
+      "prop-16": {
+        "yes": 18880,
+        "no": 25535
+      },
+      "prop-17": {
+        "yes": 28510,
+        "no": 16738
+      },
+      "prop-18": {
+        "yes": 21272,
+        "no": 23978
+      },
+      "prop-19": {
+        "yes": 22266,
+        "no": 21892
+      },
+      "prop-20": {
+        "yes": 14186,
+        "no": 29767
+      },
+      "prop-21": {
+        "yes": 18622,
+        "no": 25819
+      },
+      "prop-22": {
+        "yes": 20142,
+        "no": 24189
+      },
+      "prop-23": {
+        "yes": 17130,
+        "no": 27062
+      },
+      "prop-24": {
+        "yes": 22976,
+        "no": 20945
+      },
+      "prop-25": {
+        "yes": 21358,
+        "no": 22608
+      },
+      "president": {
+        "Joseph R. Biden": 31010,
+        "Donald J. Trump": 13756,
+        "Roque \"Rocky\" De La Fuente Guerra": 141,
+        "Howie Hawkins": 329,
+        "Jo Jorgensen": 565,
+        "Gloria La Riva": 160
+      }
+    }
+  },
+  "imperial": {
+    "name": "Imperial",
+    "population": 181215,
+    "contests": {
+      "prop-14": {
+        "yes": 21203,
+        "no": 16578
+      },
+      "prop-15": {
+        "yes": 19325,
+        "no": 18794
+      },
+      "prop-16": {
+        "yes": 16042,
+        "no": 21703
+      },
+      "prop-17": {
+        "yes": 20052,
+        "no": 17935
+      },
+      "prop-18": {
+        "yes": 14899,
+        "no": 23146
+      },
+      "prop-19": {
+        "yes": 20382,
+        "no": 17104
+      },
+      "prop-20": {
+        "yes": 16678,
+        "no": 20933
+      },
+      "prop-21": {
+        "yes": 13668,
+        "no": 24000
+      },
+      "prop-22": {
+        "yes": 21994,
+        "no": 15898
+      },
+      "prop-23": {
+        "yes": 17183,
+        "no": 20656
+      },
+      "prop-24": {
+        "yes": 22964,
+        "no": 14687
+      },
+      "prop-25": {
+        "yes": 14518,
+        "no": 22810
+      },
+      "president": {
+        "Joseph R. Biden": 24551,
+        "Donald J. Trump": 13401,
+        "Roque \"Rocky\" De La Fuente Guerra": 186,
+        "Howie Hawkins": 159,
+        "Jo Jorgensen": 253,
+        "Gloria La Riva": 177
+      }
+    }
+  },
+  "inyo": {
+    "name": "Inyo",
+    "population": 18039,
+    "contests": {
+      "prop-14": {
+        "yes": 3583,
+        "no": 5271
+      },
+      "prop-15": {
+        "yes": 3521,
+        "no": 5480
+      },
+      "prop-16": {
+        "yes": 2717,
+        "no": 6138
+      },
+      "prop-17": {
+        "yes": 4151,
+        "no": 4843
+      },
+      "prop-18": {
+        "yes": 2842,
+        "no": 6169
+      },
+      "prop-19": {
+        "yes": 3815,
+        "no": 4928
+      },
+      "prop-20": {
+        "yes": 3602,
+        "no": 5174
+      },
+      "prop-21": {
+        "yes": 2735,
+        "no": 6074
+      },
+      "prop-22": {
+        "yes": 5175,
+        "no": 3664
+      },
+      "prop-23": {
+        "yes": 2329,
+        "no": 6536
+      },
+      "prop-24": {
+        "yes": 4022,
+        "no": 4768
+      },
+      "prop-25": {
+        "yes": 3206,
+        "no": 5580
+      },
+      "president": {
+        "Joseph R. Biden": 4495,
+        "Donald J. Trump": 4436,
+        "Roque \"Rocky\" De La Fuente Guerra": 29,
+        "Howie Hawkins": 41,
+        "Jo Jorgensen": 125,
+        "Gloria La Riva": 21
+      }
+    }
+  },
+  "kern": {
+    "name": "Kern",
+    "population": 900202,
+    "contests": {
+      "prop-14": {
+        "yes": 76219,
+        "no": 103650
+      },
+      "prop-15": {
+        "yes": 63845,
+        "no": 118369
+      },
+      "prop-16": {
+        "yes": 51649,
+        "no": 129059
+      },
+      "prop-17": {
+        "yes": 74451,
+        "no": 107396
+      },
+      "prop-18": {
+        "yes": 53340,
+        "no": 128878
+      },
+      "prop-19": {
+        "yes": 77469,
+        "no": 102125
+      },
+      "prop-20": {
+        "yes": 89631,
+        "no": 90278
+      },
+      "prop-21": {
+        "yes": 47785,
+        "no": 133201
+      },
+      "prop-22": {
+        "yes": 122083,
+        "no": 59302
+      },
+      "prop-23": {
+        "yes": 49386,
+        "no": 132141
+      },
+      "prop-24": {
+        "yes": 86117,
+        "no": 93817
+      },
+      "prop-25": {
+        "yes": 53726,
+        "no": 125222
+      },
+      "president": {
+        "Joseph R. Biden": 84946,
+        "Donald J. Trump": 94844,
+        "Roque \"Rocky\" De La Fuente Guerra": 629,
+        "Howie Hawkins": 600,
+        "Jo Jorgensen": 2135,
+        "Gloria La Riva": 563
+      }
+    }
+  },
+  "kings": {
+    "name": "Kings",
+    "population": 152940,
+    "contests": {
+      "prop-14": {
+        "yes": 16053,
+        "no": 25201
+      },
+      "prop-15": {
+        "yes": 13983,
+        "no": 27483
+      },
+      "prop-16": {
+        "yes": 10625,
+        "no": 30583
+      },
+      "prop-17": {
+        "yes": 15657,
+        "no": 25802
+      },
+      "prop-18": {
+        "yes": 10754,
+        "no": 30771
+      },
+      "prop-19": {
+        "yes": 17612,
+        "no": 23331
+      },
+      "prop-20": {
+        "yes": 23146,
+        "no": 18124
+      },
+      "prop-21": {
+        "yes": 10104,
+        "no": 31229
+      },
+      "prop-22": {
+        "yes": 28002,
+        "no": 13332
+      },
+      "prop-23": {
+        "yes": 12119,
+        "no": 29378
+      },
+      "prop-24": {
+        "yes": 18557,
+        "no": 21854
+      },
+      "prop-25": {
+        "yes": 10926,
+        "no": 29384
+      },
+      "president": {
+        "Joseph R. Biden": 17729,
+        "Donald J. Trump": 23169,
+        "Roque \"Rocky\" De La Fuente Guerra": 175,
+        "Howie Hawkins": 120,
+        "Jo Jorgensen": 575,
+        "Gloria La Riva": 165
+      }
+    }
+  },
+  "lake": {
+    "name": "Lake",
+    "population": 64386,
+    "contests": {
+      "prop-14": {
+        "yes": 5415,
+        "no": 5383
+      },
+      "prop-15": {
+        "yes": 5132,
+        "no": 5786
+      },
+      "prop-16": {
+        "yes": 4105,
+        "no": 6673
+      },
+      "prop-17": {
+        "yes": 6051,
+        "no": 4837
+      },
+      "prop-18": {
+        "yes": 4152,
+        "no": 6760
+      },
+      "prop-19": {
+        "yes": 6335,
+        "no": 4445
+      },
+      "prop-20": {
+        "yes": 4182,
+        "no": 6530
+      },
+      "prop-21": {
+        "yes": 4105,
+        "no": 6678
+      },
+      "prop-22": {
+        "yes": 5915,
+        "no": 4860
+      },
+      "prop-23": {
+        "yes": 3612,
+        "no": 7204
+      },
+      "prop-24": {
+        "yes": 5954,
+        "no": 4726
+      },
+      "prop-25": {
+        "yes": 5185,
+        "no": 5538
+      },
+      "president": {
+        "Joseph R. Biden": 6874,
+        "Donald J. Trump": 3955,
+        "Roque \"Rocky\" De La Fuente Guerra": 26,
+        "Howie Hawkins": 71,
+        "Jo Jorgensen": 94,
+        "Gloria La Riva": 18
+      }
+    }
+  },
+  "lassen": {
+    "name": "Lassen",
+    "population": 30573,
+    "contests": {
+      "prop-14": {
+        "yes": 2831,
+        "no": 8669
+      },
+      "prop-15": {
+        "yes": 2463,
+        "no": 9134
+      },
+      "prop-16": {
+        "yes": 1441,
+        "no": 10031
+      },
+      "prop-17": {
+        "yes": 2913,
+        "no": 8701
+      },
+      "prop-18": {
+        "yes": 1664,
+        "no": 9938
+      },
+      "prop-19": {
+        "yes": 3647,
+        "no": 7723
+      },
+      "prop-20": {
+        "yes": 6938,
+        "no": 4507
+      },
+      "prop-21": {
+        "yes": 1864,
+        "no": 9633
+      },
+      "prop-22": {
+        "yes": 8029,
+        "no": 3472
+      },
+      "prop-23": {
+        "yes": 2461,
+        "no": 9017
+      },
+      "prop-24": {
+        "yes": 4161,
+        "no": 7276
+      },
+      "prop-25": {
+        "yes": 2140,
+        "no": 9355
+      },
+      "president": {
+        "Joseph R. Biden": 2772,
+        "Donald J. Trump": 8798,
+        "Roque \"Rocky\" De La Fuente Guerra": 25,
+        "Howie Hawkins": 31,
+        "Jo Jorgensen": 137,
+        "Gloria La Riva": 16
+      }
+    }
+  },
+  "los-angeles": {
+    "name": "Los Angeles",
+    "population": 10039107,
+    "contests": {
+      "prop-14": {
+        "yes": 2073574,
+        "no": 1837406
+      },
+      "prop-15": {
+        "yes": 2138629,
+        "no": 1866097
+      },
+      "prop-16": {
+        "yes": 2012812,
+        "no": 1936042
+      },
+      "prop-17": {
+        "yes": 2614890,
+        "no": 1377966
+      },
+      "prop-18": {
+        "yes": 2069209,
+        "no": 1930583
+      },
+      "prop-19": {
+        "yes": 1953991,
+        "no": 1956059
+      },
+      "prop-20": {
+        "yes": 1342215,
+        "no": 2560303
+      },
+      "prop-21": {
+        "yes": 1964463,
+        "no": 1996529
+      },
+      "prop-22": {
+        "yes": 2205877,
+        "no": 1781709
+      },
+      "prop-23": {
+        "yes": 1618206,
+        "no": 2331917
+      },
+      "prop-24": {
+        "yes": 2331625,
+        "no": 1572304
+      },
+      "prop-25": {
+        "yes": 1756297,
+        "no": 2125669
+      },
+      "president": {
+        "Joseph R. Biden": 2947568,
+        "Donald J. Trump": 1107090,
+        "Roque \"Rocky\" De La Fuente Guerra": 15051,
+        "Howie Hawkins": 20843,
+        "Jo Jorgensen": 34238,
+        "Gloria La Riva": 15105
+      }
+    }
+  },
+  "madera": {
+    "name": "Madera",
+    "population": 157327,
+    "contests": {
+      "prop-14": {
+        "yes": 19518,
+        "no": 31372
+      },
+      "prop-15": {
+        "yes": 16310,
+        "no": 35146
+      },
+      "prop-16": {
+        "yes": 12836,
+        "no": 38128
+      },
+      "prop-17": {
+        "yes": 19805,
+        "no": 31768
+      },
+      "prop-18": {
+        "yes": 13350,
+        "no": 38276
+      },
+      "prop-19": {
+        "yes": 20957,
+        "no": 29201
+      },
+      "prop-20": {
+        "yes": 27496,
+        "no": 23417
+      },
+      "prop-21": {
+        "yes": 12636,
+        "no": 38593
+      },
+      "prop-22": {
+        "yes": 34731,
+        "no": 16223
+      },
+      "prop-23": {
+        "yes": 14108,
+        "no": 36850
+      },
+      "prop-24": {
+        "yes": 22832,
+        "no": 27667
+      },
+      "prop-25": {
+        "yes": 13588,
+        "no": 36841
+      },
+      "president": {
+        "Joseph R. Biden": 22438,
+        "Donald J. Trump": 28458,
+        "Roque \"Rocky\" De La Fuente Guerra": 169,
+        "Howie Hawkins": 209,
+        "Jo Jorgensen": 599,
+        "Gloria La Riva": 156
+      }
+    }
+  },
+  "marin": {
+    "name": "Marin",
+    "population": 258826,
+    "contests": {
+      "prop-14": {
+        "yes": 73600,
+        "no": 55345
+      },
+      "prop-15": {
+        "yes": 81565,
+        "no": 50306
+      },
+      "prop-16": {
+        "yes": 72593,
+        "no": 56337
+      },
+      "prop-17": {
+        "yes": 98687,
+        "no": 33083
+      },
+      "prop-18": {
+        "yes": 76344,
+        "no": 54350
+      },
+      "prop-19": {
+        "yes": 71060,
+        "no": 57669
+      },
+      "prop-20": {
+        "yes": 32654,
+        "no": 94002
+      },
+      "prop-21": {
+        "yes": 52718,
+        "no": 75698
+      },
+      "prop-22": {
+        "yes": 60631,
+        "no": 69068
+      },
+      "prop-23": {
+        "yes": 44451,
+        "no": 83374
+      },
+      "prop-24": {
+        "yes": 67258,
+        "no": 60000
+      },
+      "prop-25": {
+        "yes": 78982,
+        "no": 48488
+      },
+      "president": {
+        "Joseph R. Biden": 112921,
+        "Donald J. Trump": 20505,
+        "Roque \"Rocky\" De La Fuente Guerra": 290,
+        "Howie Hawkins": 553,
+        "Jo Jorgensen": 1198,
+        "Gloria La Riva": 200
+      }
+    }
+  },
+  "mariposa": {
+    "name": "Mariposa",
+    "population": 17203,
+    "contests": {
+      "prop-14": {
+        "yes": 3468,
+        "no": 6621
+      },
+      "prop-15": {
+        "yes": 3134,
+        "no": 7079
+      },
+      "prop-16": {
+        "yes": 2331,
+        "no": 7735
+      },
+      "prop-17": {
+        "yes": 4036,
+        "no": 6132
+      },
+      "prop-18": {
+        "yes": 2599,
+        "no": 7581
+      },
+      "prop-19": {
+        "yes": 3942,
+        "no": 6040
+      },
+      "prop-20": {
+        "yes": 4754,
+        "no": 5210
+      },
+      "prop-21": {
+        "yes": 2382,
+        "no": 7650
+      },
+      "prop-22": {
+        "yes": 6397,
+        "no": 3638
+      },
+      "prop-23": {
+        "yes": 2437,
+        "no": 7614
+      },
+      "prop-24": {
+        "yes": 4055,
+        "no": 5930
+      },
+      "prop-25": {
+        "yes": 2963,
+        "no": 6976
+      },
+      "president": {
+        "Joseph R. Biden": 4088,
+        "Donald J. Trump": 5950,
+        "Roque \"Rocky\" De La Fuente Guerra": 26,
+        "Howie Hawkins": 39,
+        "Jo Jorgensen": 155,
+        "Gloria La Riva": 22
+      }
+    }
+  },
+  "mendocino": {
+    "name": "Mendocino",
+    "population": 86749,
+    "contests": {
+      "prop-14": {
+        "yes": 13749,
+        "no": 10645
+      },
+      "prop-15": {
+        "yes": 13864,
+        "no": 10932
+      },
+      "prop-16": {
+        "yes": 11780,
+        "no": 12593
+      },
+      "prop-17": {
+        "yes": 16415,
+        "no": 8359
+      },
+      "prop-18": {
+        "yes": 12627,
+        "no": 12180
+      },
+      "prop-19": {
+        "yes": 14144,
+        "no": 10149
+      },
+      "prop-20": {
+        "yes": 7052,
+        "no": 17055
+      },
+      "prop-21": {
+        "yes": 11335,
+        "no": 12985
+      },
+      "prop-22": {
+        "yes": 10905,
+        "no": 13416
+      },
+      "prop-23": {
+        "yes": 9462,
+        "no": 14959
+      },
+      "prop-24": {
+        "yes": 13661,
+        "no": 10392
+      },
+      "prop-25": {
+        "yes": 13757,
+        "no": 10436
+      },
+      "president": {
+        "Joseph R. Biden": 18303,
+        "Donald J. Trump": 6312,
+        "Roque \"Rocky\" De La Fuente Guerra": 39,
+        "Howie Hawkins": 179,
+        "Jo Jorgensen": 248,
+        "Gloria La Riva": 90
+      }
+    }
+  },
+  "merced": {
+    "name": "Merced",
+    "population": 277680,
+    "contests": {
+      "prop-14": {
+        "yes": 38681,
+        "no": 40686
+      },
+      "prop-15": {
+        "yes": 31453,
+        "no": 48658
+      },
+      "prop-16": {
+        "yes": 26100,
+        "no": 53356
+      },
+      "prop-17": {
+        "yes": 38675,
+        "no": 41187
+      },
+      "prop-18": {
+        "yes": 26704,
+        "no": 53393
+      },
+      "prop-19": {
+        "yes": 38722,
+        "no": 40307
+      },
+      "prop-20": {
+        "yes": 35851,
+        "no": 42574
+      },
+      "prop-21": {
+        "yes": 25164,
+        "no": 53531
+      },
+      "prop-22": {
+        "yes": 49549,
+        "no": 29460
+      },
+      "prop-23": {
+        "yes": 25637,
+        "no": 53358
+      },
+      "prop-24": {
+        "yes": 42131,
+        "no": 35583
+      },
+      "prop-25": {
+        "yes": 26043,
+        "no": 51931
+      },
+      "president": {
+        "Joseph R. Biden": 44260,
+        "Donald J. Trump": 35240,
+        "Roque \"Rocky\" De La Fuente Guerra": 323,
+        "Howie Hawkins": 339,
+        "Jo Jorgensen": 821,
+        "Gloria La Riva": 373
+      }
+    }
+  },
+  "modoc": {
+    "name": "Modoc",
+    "population": 8841,
+    "contests": {
+      "prop-14": {
+        "yes": 998,
+        "no": 2727
+      },
+      "prop-15": {
+        "yes": 868,
+        "no": 2895
+      },
+      "prop-16": {
+        "yes": 586,
+        "no": 3151
+      },
+      "prop-17": {
+        "yes": 1139,
+        "no": 2646
+      },
+      "prop-18": {
+        "yes": 680,
+        "no": 3106
+      },
+      "prop-19": {
+        "yes": 1246,
+        "no": 2441
+      },
+      "prop-20": {
+        "yes": 1945,
+        "no": 1773
+      },
+      "prop-21": {
+        "yes": 673,
+        "no": 3073
+      },
+      "prop-22": {
+        "yes": 2495,
+        "no": 1220
+      },
+      "prop-23": {
+        "yes": 773,
+        "no": 2967
+      },
+      "prop-24": {
+        "yes": 1329,
+        "no": 2375
+      },
+      "prop-25": {
+        "yes": 849,
+        "no": 2857
+      },
+      "president": {
+        "Joseph R. Biden": 1063,
+        "Donald J. Trump": 2675,
+        "Roque \"Rocky\" De La Fuente Guerra": 12,
+        "Howie Hawkins": 14,
+        "Jo Jorgensen": 31,
+        "Gloria La Riva": 10
+      }
+    }
+  },
+  "mono": {
+    "name": "Mono",
+    "population": 14444,
+    "contests": {
+      "prop-14": {
+        "yes": 3026,
+        "no": 3384
+      },
+      "prop-15": {
+        "yes": 2988,
+        "no": 3535
+      },
+      "prop-16": {
+        "yes": 2113,
+        "no": 4259
+      },
+      "prop-17": {
+        "yes": 3521,
+        "no": 2966
+      },
+      "prop-18": {
+        "yes": 2511,
+        "no": 4013
+      },
+      "prop-19": {
+        "yes": 2970,
+        "no": 3383
+      },
+      "prop-20": {
+        "yes": 2251,
+        "no": 4016
+      },
+      "prop-21": {
+        "yes": 2175,
+        "no": 4170
+      },
+      "prop-22": {
+        "yes": 3472,
+        "no": 2914
+      },
+      "prop-23": {
+        "yes": 2139,
+        "no": 4181
+      },
+      "prop-24": {
+        "yes": 3209,
+        "no": 3106
+      },
+      "prop-25": {
+        "yes": 2596,
+        "no": 3669
+      },
+      "president": {
+        "Joseph R. Biden": 3998,
+        "Donald J. Trump": 2504,
+        "Roque \"Rocky\" De La Fuente Guerra": 25,
+        "Howie Hawkins": 42,
+        "Jo Jorgensen": 126,
+        "Gloria La Riva": 18
+      }
+    }
+  },
+  "monterey": {
+    "name": "Monterey",
+    "population": 434061,
+    "contests": {
+      "prop-14": {
+        "yes": 84803,
+        "no": 66525
+      },
+      "prop-15": {
+        "yes": 78212,
+        "no": 74754
+      },
+      "prop-16": {
+        "yes": 67970,
+        "no": 83443
+      },
+      "prop-17": {
+        "yes": 95786,
+        "no": 57006
+      },
+      "prop-18": {
+        "yes": 70384,
+        "no": 83349
+      },
+      "prop-19": {
+        "yes": 85938,
+        "no": 64880
+      },
+      "prop-20": {
+        "yes": 49755,
+        "no": 100544
+      },
+      "prop-21": {
+        "yes": 64652,
+        "no": 86943
+      },
+      "prop-22": {
+        "yes": 84292,
+        "no": 67876
+      },
+      "prop-23": {
+        "yes": 62552,
+        "no": 89352
+      },
+      "prop-24": {
+        "yes": 91466,
+        "no": 56308
+      },
+      "prop-25": {
+        "yes": 70656,
+        "no": 76505
+      },
+      "president": {
+        "Joseph R. Biden": 109145,
+        "Donald J. Trump": 43439,
+        "Roque \"Rocky\" De La Fuente Guerra": 523,
+        "Howie Hawkins": 710,
+        "Jo Jorgensen": 1722,
+        "Gloria La Riva": 455
+      }
+    }
+  },
+  "napa": {
+    "name": "Napa",
+    "population": 137744,
+    "contests": {
+      "prop-14": {
+        "yes": 34766,
+        "no": 31123
+      },
+      "prop-15": {
+        "yes": 32697,
+        "no": 34169
+      },
+      "prop-16": {
+        "yes": 28379,
+        "no": 37535
+      },
+      "prop-17": {
+        "yes": 40375,
+        "no": 26388
+      },
+      "prop-18": {
+        "yes": 30222,
+        "no": 36704
+      },
+      "prop-19": {
+        "yes": 36020,
+        "no": 29609
+      },
+      "prop-20": {
+        "yes": 23688,
+        "no": 41052
+      },
+      "prop-21": {
+        "yes": 24718,
+        "no": 40781
+      },
+      "prop-22": {
+        "yes": 37441,
+        "no": 28648
+      },
+      "prop-23": {
+        "yes": 21147,
+        "no": 44683
+      },
+      "prop-24": {
+        "yes": 35982,
+        "no": 29249
+      },
+      "prop-25": {
+        "yes": 31377,
+        "no": 33279
+      },
+      "president": {
+        "Joseph R. Biden": 46962,
+        "Donald J. Trump": 19388,
+        "Roque \"Rocky\" De La Fuente Guerra": 217,
+        "Howie Hawkins": 292,
+        "Jo Jorgensen": 844,
+        "Gloria La Riva": 144
+      }
+    }
+  },
+  "nevada": {
+    "name": "Nevada",
+    "population": 99755,
+    "contests": {
+      "prop-14": {
+        "yes": 23176,
+        "no": 29332
+      },
+      "prop-15": {
+        "yes": 22301,
+        "no": 31102
+      },
+      "prop-16": {
+        "yes": 18504,
+        "no": 34095
+      },
+      "prop-17": {
+        "yes": 28264,
+        "no": 25184
+      },
+      "prop-18": {
+        "yes": 20444,
+        "no": 33234
+      },
+      "prop-19": {
+        "yes": 24617,
+        "no": 27818
+      },
+      "prop-20": {
+        "yes": 20499,
+        "no": 31613
+      },
+      "prop-21": {
+        "yes": 16328,
+        "no": 36212
+      },
+      "prop-22": {
+        "yes": 31754,
+        "no": 20923
+      },
+      "prop-23": {
+        "yes": 14233,
+        "no": 38175
+      },
+      "prop-24": {
+        "yes": 23948,
+        "no": 28433
+      },
+      "prop-25": {
+        "yes": 22202,
+        "no": 29921
+      },
+      "president": {
+        "Joseph R. Biden": 30860,
+        "Donald J. Trump": 22059,
+        "Roque \"Rocky\" De La Fuente Guerra": 150,
+        "Howie Hawkins": 270,
+        "Jo Jorgensen": 722,
+        "Gloria La Riva": 116
+      }
+    }
+  },
+  "orange": {
+    "name": "Orange",
+    "population": 3175692,
+    "contests": {
+      "prop-14": {
+        "yes": 665038,
+        "no": 785420
+      },
+      "prop-15": {
+        "yes": 578937,
+        "no": 892807
+      },
+      "prop-16": {
+        "yes": 502634,
+        "no": 950722
+      },
+      "prop-17": {
+        "yes": 727710,
+        "no": 736723
+      },
+      "prop-18": {
+        "yes": 523032,
+        "no": 943634
+      },
+      "prop-19": {
+        "yes": 670643,
+        "no": 769037
+      },
+      "prop-20": {
+        "yes": 604973,
+        "no": 833121
+      },
+      "prop-21": {
+        "yes": 492457,
+        "no": 960792
+      },
+      "prop-22": {
+        "yes": 965995,
+        "no": 498331
+      },
+      "prop-23": {
+        "yes": 476251,
+        "no": 973195
+      },
+      "prop-24": {
+        "yes": 778136,
+        "no": 665742
+      },
+      "prop-25": {
+        "yes": 562721,
+        "no": 874415
+      },
+      "president": {
+        "Joseph R. Biden": 801749,
+        "Donald J. Trump": 664293,
+        "Roque \"Rocky\" De La Fuente Guerra": 4479,
+        "Howie Hawkins": 5721,
+        "Jo Jorgensen": 17044,
+        "Gloria La Riva": 3319
+      }
+    }
+  },
+  "placer": {
+    "name": "Placer",
+    "population": 398329,
+    "contests": {
+      "prop-14": {
+        "yes": 84147,
+        "no": 125169
+      },
+      "prop-15": {
+        "yes": 70374,
+        "no": 141903
+      },
+      "prop-16": {
+        "yes": 56333,
+        "no": 153540
+      },
+      "prop-17": {
+        "yes": 88330,
+        "no": 123504
+      },
+      "prop-18": {
+        "yes": 61589,
+        "no": 151301
+      },
+      "prop-19": {
+        "yes": 95342,
+        "no": 112635
+      },
+      "prop-20": {
+        "yes": 94635,
+        "no": 112036
+      },
+      "prop-21": {
+        "yes": 53510,
+        "no": 155326
+      },
+      "prop-22": {
+        "yes": 145847,
+        "no": 64674
+      },
+      "prop-23": {
+        "yes": 51660,
+        "no": 157369
+      },
+      "prop-24": {
+        "yes": 98654,
+        "no": 108246
+      },
+      "prop-25": {
+        "yes": 69376,
+        "no": 136650
+      },
+      "president": {
+        "Joseph R. Biden": 99585,
+        "Donald J. Trump": 110859,
+        "Roque \"Rocky\" De La Fuente Guerra": 531,
+        "Howie Hawkins": 707,
+        "Jo Jorgensen": 3465,
+        "Gloria La Riva": 295
+      }
+    }
+  },
+  "plumas": {
+    "name": "Plumas",
+    "population": 18807,
+    "contests": {
+      "prop-14": {
+        "yes": 3682,
+        "no": 7005
+      },
+      "prop-15": {
+        "yes": 3392,
+        "no": 7420
+      },
+      "prop-16": {
+        "yes": 2345,
+        "no": 8303
+      },
+      "prop-17": {
+        "yes": 4345,
+        "no": 6445
+      },
+      "prop-18": {
+        "yes": 2718,
+        "no": 8117
+      },
+      "prop-19": {
+        "yes": 4550,
+        "no": 6068
+      },
+      "prop-20": {
+        "yes": 4550,
+        "no": 6014
+      },
+      "prop-21": {
+        "yes": 2530,
+        "no": 8140
+      },
+      "prop-22": {
+        "yes": 6775,
+        "no": 3873
+      },
+      "prop-23": {
+        "yes": 2618,
+        "no": 8062
+      },
+      "prop-24": {
+        "yes": 4604,
+        "no": 6006
+      },
+      "prop-25": {
+        "yes": 3502,
+        "no": 7129
+      },
+      "president": {
+        "Joseph R. Biden": 4465,
+        "Donald J. Trump": 6247,
+        "Roque \"Rocky\" De La Fuente Guerra": 30,
+        "Howie Hawkins": 38,
+        "Jo Jorgensen": 142,
+        "Gloria La Riva": 25
+      }
+    }
+  },
+  "riverside": {
+    "name": "Riverside",
+    "population": 2470546,
+    "contests": {
+      "prop-14": {
+        "yes": 311949,
+        "no": 334244
+      },
+      "prop-15": {
+        "yes": 258427,
+        "no": 392075
+      },
+      "prop-16": {
+        "yes": 228353,
+        "no": 416430
+      },
+      "prop-17": {
+        "yes": 323331,
+        "no": 325712
+      },
+      "prop-18": {
+        "yes": 238103,
+        "no": 413030
+      },
+      "prop-19": {
+        "yes": 321705,
+        "no": 323033
+      },
+      "prop-20": {
+        "yes": 286243,
+        "no": 358386
+      },
+      "prop-21": {
+        "yes": 217106,
+        "no": 432217
+      },
+      "prop-22": {
+        "yes": 429265,
+        "no": 222830
+      },
+      "prop-23": {
+        "yes": 204044,
+        "no": 447316
+      },
+      "prop-24": {
+        "yes": 349680,
+        "no": 294600
+      },
+      "prop-25": {
+        "yes": 240867,
+        "no": 399149
+      },
+      "president": {
+        "Joseph R. Biden": 357566,
+        "Donald J. Trump": 294425,
+        "Roque \"Rocky\" De La Fuente Guerra": 1884,
+        "Howie Hawkins": 1990,
+        "Jo Jorgensen": 5758,
+        "Gloria La Riva": 1544
+      }
+    }
+  },
+  "sacramento": {
+    "name": "Sacramento",
+    "population": 1552058,
+    "contests": {
+      "prop-14": {
+        "yes": 270492,
+        "no": 249865
+      },
+      "prop-15": {
+        "yes": 243349,
+        "no": 282830
+      },
+      "prop-16": {
+        "yes": 211039,
+        "no": 309647
+      },
+      "prop-17": {
+        "yes": 301481,
+        "no": 226658
+      },
+      "prop-18": {
+        "yes": 222916,
+        "no": 304801
+      },
+      "prop-19": {
+        "yes": 271933,
+        "no": 246085
+      },
+      "prop-20": {
+        "yes": 205945,
+        "no": 310755
+      },
+      "prop-21": {
+        "yes": 189993,
+        "no": 332155
+      },
+      "prop-22": {
+        "yes": 328309,
+        "no": 196949
+      },
+      "prop-23": {
+        "yes": 170166,
+        "no": 348055
+      },
+      "prop-24": {
+        "yes": 283091,
+        "no": 230159
+      },
+      "prop-25": {
+        "yes": 224594,
+        "no": 287317
+      },
+      "president": {
+        "Joseph R. Biden": 338632,
+        "Donald J. Trump": 186311,
+        "Roque \"Rocky\" De La Fuente Guerra": 1686,
+        "Howie Hawkins": 2198,
+        "Jo Jorgensen": 6201,
+        "Gloria La Riva": 1586
+      }
+    }
+  },
+  "san-benito": {
+    "name": "San Benito",
+    "population": 62808,
+    "contests": {
+      "prop-14": {
+        "yes": 14213,
+        "no": 13515
+      },
+      "prop-15": {
+        "yes": 11961,
+        "no": 16052
+      },
+      "prop-16": {
+        "yes": 10300,
+        "no": 17331
+      },
+      "prop-17": {
+        "yes": 15070,
+        "no": 12856
+      },
+      "prop-18": {
+        "yes": 10688,
+        "no": 17342
+      },
+      "prop-19": {
+        "yes": 15100,
+        "no": 12698
+      },
+      "prop-20": {
+        "yes": 10697,
+        "no": 16838
+      },
+      "prop-21": {
+        "yes": 10367,
+        "no": 17391
+      },
+      "prop-22": {
+        "yes": 15745,
+        "no": 12085
+      },
+      "prop-23": {
+        "yes": 10354,
+        "no": 17508
+      },
+      "prop-24": {
+        "yes": 16265,
+        "no": 11153
+      },
+      "prop-25": {
+        "yes": 10433,
+        "no": 16873
+      },
+      "president": {
+        "Joseph R. Biden": 17315,
+        "Donald J. Trump": 10412,
+        "Roque \"Rocky\" De La Fuente Guerra": 83,
+        "Howie Hawkins": 89,
+        "Jo Jorgensen": 337,
+        "Gloria La Riva": 81
+      }
+    }
+  },
+  "san-bernardino": {
+    "name": "San Bernardino",
+    "population": 2180085,
+    "contests": {
+      "prop-14": {
+        "yes": 314228,
+        "no": 339271
+      },
+      "prop-15": {
+        "yes": 265668,
+        "no": 396545
+      },
+      "prop-16": {
+        "yes": 236175,
+        "no": 419982
+      },
+      "prop-17": {
+        "yes": 340936,
+        "no": 320343
+      },
+      "prop-18": {
+        "yes": 244772,
+        "no": 420862
+      },
+      "prop-19": {
+        "yes": 329343,
+        "no": 324966
+      },
+      "prop-20": {
+        "yes": 282008,
+        "no": 372603
+      },
+      "prop-21": {
+        "yes": 226679,
+        "no": 431790
+      },
+      "prop-22": {
+        "yes": 425472,
+        "no": 236850
+      },
+      "prop-23": {
+        "yes": 215470,
+        "no": 446280
+      },
+      "prop-24": {
+        "yes": 372766,
+        "no": 276597
+      },
+      "prop-25": {
+        "yes": 242738,
+        "no": 402070
+      },
+      "president": {
+        "Joseph R. Biden": 367354,
+        "Donald J. Trump": 294786,
+        "Roque \"Rocky\" De La Fuente Guerra": 2459,
+        "Howie Hawkins": 2669,
+        "Jo Jorgensen": 6393,
+        "Gloria La Riva": 2235
+      }
+    }
+  },
+  "san-diego": {
+    "name": "San Diego",
+    "population": 3338330,
+    "contests": {
+      "prop-14": {
+        "yes": 799506,
+        "no": 724518
+      },
+      "prop-15": {
+        "yes": 678659,
+        "no": 868707
+      },
+      "prop-16": {
+        "yes": 607562,
+        "no": 916936
+      },
+      "prop-17": {
+        "yes": 879768,
+        "no": 661553
+      },
+      "prop-18": {
+        "yes": 642149,
+        "no": 905989
+      },
+      "prop-19": {
+        "yes": 798521,
+        "no": 707741
+      },
+      "prop-20": {
+        "yes": 567001,
+        "no": 929825
+      },
+      "prop-21": {
+        "yes": 572024,
+        "no": 944065
+      },
+      "prop-22": {
+        "yes": 984548,
+        "no": 547142
+      },
+      "prop-23": {
+        "yes": 544438,
+        "no": 969129
+      },
+      "prop-24": {
+        "yes": 855917,
+        "no": 642305
+      },
+      "prop-25": {
+        "yes": 634550,
+        "no": 857715
+      },
+      "president": {
+        "Joseph R. Biden": 948902,
+        "Donald J. Trump": 589248,
+        "Roque \"Rocky\" De La Fuente Guerra": 5117,
+        "Howie Hawkins": 7253,
+        "Jo Jorgensen": 20897,
+        "Gloria La Riva": 2762
+      }
+    }
+  },
+  "san-francisco": {
+    "name": "San Francisco",
+    "population": 881549,
+    "contests": {
+      "prop-14": {
+        "yes": 234387,
+        "no": 187715
+      },
+      "prop-15": {
+        "yes": 305042,
+        "no": 125264
+      },
+      "prop-16": {
+        "yes": 270596,
+        "no": 153191
+      },
+      "prop-17": {
+        "yes": 335850,
+        "no": 94338
+      },
+      "prop-18": {
+        "yes": 276447,
+        "no": 153793
+      },
+      "prop-19": {
+        "yes": 251371,
+        "no": 166348
+      },
+      "prop-20": {
+        "yes": 117806,
+        "no": 299618
+      },
+      "prop-21": {
+        "yes": 218149,
+        "no": 203376
+      },
+      "prop-22": {
+        "yes": 171847,
+        "no": 252593
+      },
+      "prop-23": {
+        "yes": 193262,
+        "no": 221141
+      },
+      "prop-24": {
+        "yes": 202810,
+        "no": 211062
+      },
+      "prop-25": {
+        "yes": 232218,
+        "no": 180568
+      },
+      "president": {
+        "Joseph R. Biden": 375630,
+        "Donald J. Trump": 55988,
+        "Roque \"Rocky\" De La Fuente Guerra": 1248,
+        "Howie Hawkins": 2762,
+        "Jo Jorgensen": 3261,
+        "Gloria La Riva": 1529
+      }
+    }
+  },
+  "san-joaquin": {
+    "name": "San Joaquin",
+    "population": 762148,
+    "contests": {
+      "prop-14": {
+        "yes": 92721,
+        "no": 95034
+      },
+      "prop-15": {
+        "yes": 78059,
+        "no": 112748
+      },
+      "prop-16": {
+        "yes": 68852,
+        "no": 119530
+      },
+      "prop-17": {
+        "yes": 97626,
+        "no": 92361
+      },
+      "prop-18": {
+        "yes": 68633,
+        "no": 121965
+      },
+      "prop-19": {
+        "yes": 98597,
+        "no": 88903
+      },
+      "prop-20": {
+        "yes": 73995,
+        "no": 113435
+      },
+      "prop-21": {
+        "yes": 65970,
+        "no": 122854
+      },
+      "prop-22": {
+        "yes": 118635,
+        "no": 71481
+      },
+      "prop-23": {
+        "yes": 62499,
+        "no": 128443
+      },
+      "prop-24": {
+        "yes": 109117,
+        "no": 79497
+      },
+      "prop-25": {
+        "yes": 74257,
+        "no": 113704
+      },
+      "president": {
+        "Joseph R. Biden": 112786,
+        "Donald J. Trump": 77038,
+        "Roque \"Rocky\" De La Fuente Guerra": 694,
+        "Howie Hawkins": 634,
+        "Jo Jorgensen": 1725,
+        "Gloria La Riva": 570
+      }
+    }
+  },
+  "san-luis-obispo": {
+    "name": "San Luis Obispo",
+    "population": 283111,
+    "contests": {
+      "prop-14": {
+        "yes": 64626,
+        "no": 83492
+      },
+      "prop-15": {
+        "yes": 57918,
+        "no": 93219
+      },
+      "prop-16": {
+        "yes": 48624,
+        "no": 99840
+      },
+      "prop-17": {
+        "yes": 75223,
+        "no": 75551
+      },
+      "prop-18": {
+        "yes": 54437,
+        "no": 97037
+      },
+      "prop-19": {
+        "yes": 64071,
+        "no": 82892
+      },
+      "prop-20": {
+        "yes": 60602,
+        "no": 85315
+      },
+      "prop-21": {
+        "yes": 47476,
+        "no": 99831
+      },
+      "prop-22": {
+        "yes": 93246,
+        "no": 55050
+      },
+      "prop-23": {
+        "yes": 42901,
+        "no": 104412
+      },
+      "prop-24": {
+        "yes": 68290,
+        "no": 77901
+      },
+      "prop-25": {
+        "yes": 56472,
+        "no": 88810
+      },
+      "president": {
+        "Joseph R. Biden": 85183,
+        "Donald J. Trump": 64514,
+        "Roque \"Rocky\" De La Fuente Guerra": 422,
+        "Howie Hawkins": 749,
+        "Jo Jorgensen": 2286,
+        "Gloria La Riva": 255
+      }
+    }
+  },
+  "san-mateo": {
+    "name": "San Mateo",
+    "population": 766573,
+    "contests": {
+      "prop-14": {
+        "yes": 187682,
+        "no": 134970
+      },
+      "prop-15": {
+        "yes": 192663,
+        "no": 137010
+      },
+      "prop-16": {
+        "yes": 167069,
+        "no": 156989
+      },
+      "prop-17": {
+        "yes": 219978,
+        "no": 107692
+      },
+      "prop-18": {
+        "yes": 171430,
+        "no": 157936
+      },
+      "prop-19": {
+        "yes": 182007,
+        "no": 140393
+      },
+      "prop-20": {
+        "yes": 103609,
+        "no": 214920
+      },
+      "prop-21": {
+        "yes": 135636,
+        "no": 188187
+      },
+      "prop-22": {
+        "yes": 163090,
+        "no": 164519
+      },
+      "prop-23": {
+        "yes": 120787,
+        "no": 202785
+      },
+      "prop-24": {
+        "yes": 188042,
+        "no": 133286
+      },
+      "prop-25": {
+        "yes": 174808,
+        "no": 143612
+      },
+      "president": {
+        "Joseph R. Biden": 264762,
+        "Donald J. Trump": 67750,
+        "Roque \"Rocky\" De La Fuente Guerra": 952,
+        "Howie Hawkins": 1336,
+        "Jo Jorgensen": 3027,
+        "Gloria La Riva": 665
+      }
+    }
+  },
+  "santa-barbara": {
+    "name": "Santa Barbara",
+    "population": 446499,
+    "contests": {
+      "prop-14": {
+        "yes": 88883,
+        "no": 99560
+      },
+      "prop-15": {
+        "yes": 91139,
+        "no": 100334
+      },
+      "prop-16": {
+        "yes": 80621,
+        "no": 107956
+      },
+      "prop-17": {
+        "yes": 113368,
+        "no": 77941
+      },
+      "prop-18": {
+        "yes": 85618,
+        "no": 105942
+      },
+      "prop-19": {
+        "yes": 85889,
+        "no": 100753
+      },
+      "prop-20": {
+        "yes": 66389,
+        "no": 120058
+      },
+      "prop-21": {
+        "yes": 70227,
+        "no": 118048
+      },
+      "prop-22": {
+        "yes": 103213,
+        "no": 85929
+      },
+      "prop-23": {
+        "yes": 71457,
+        "no": 116625
+      },
+      "prop-24": {
+        "yes": 107121,
+        "no": 80310
+      },
+      "prop-25": {
+        "yes": 86831,
+        "no": 98796
+      },
+      "president": {
+        "Joseph R. Biden": 126419,
+        "Donald J. Trump": 63583,
+        "Roque \"Rocky\" De La Fuente Guerra": 681,
+        "Howie Hawkins": 889,
+        "Jo Jorgensen": 2317,
+        "Gloria La Riva": 489
+      }
+    }
+  },
+  "santa-clara": {
+    "name": "Santa Clara",
+    "population": 1927852,
+    "contests": {
+      "prop-14": {
+        "yes": 432098,
+        "no": 342765
+      },
+      "prop-15": {
+        "yes": 435979,
+        "no": 352177
+      },
+      "prop-16": {
+        "yes": 367208,
+        "no": 411135
+      },
+      "prop-17": {
+        "yes": 505288,
+        "no": 280187
+      },
+      "prop-18": {
+        "yes": 377284,
+        "no": 408890
+      },
+      "prop-19": {
+        "yes": 425880,
+        "no": 342772
+      },
+      "prop-20": {
+        "yes": 278908,
+        "no": 489757
+      },
+      "prop-21": {
+        "yes": 332015,
+        "no": 444491
+      },
+      "prop-22": {
+        "yes": 417427,
+        "no": 367036
+      },
+      "prop-23": {
+        "yes": 301693,
+        "no": 472065
+      },
+      "prop-24": {
+        "yes": 451351,
+        "no": 321757
+      },
+      "prop-25": {
+        "yes": 402487,
+        "no": 364093
+      },
+      "president": {
+        "Joseph R. Biden": 587945,
+        "Donald J. Trump": 203648,
+        "Roque \"Rocky\" De La Fuente Guerra": 2452,
+        "Howie Hawkins": 3829,
+        "Jo Jorgensen": 8634,
+        "Gloria La Riva": 2001
+      }
+    }
+  },
+  "santa-cruz": {
+    "name": "Santa Cruz",
+    "population": 273213,
+    "contests": {
+      "prop-14": {
+        "yes": 76810,
+        "no": 58447
+      },
+      "prop-15": {
+        "yes": 80586,
+        "no": 57880
+      },
+      "prop-16": {
+        "yes": 69705,
+        "no": 66238
+      },
+      "prop-17": {
+        "yes": 99452,
+        "no": 39146
+      },
+      "prop-18": {
+        "yes": 75886,
+        "no": 62758
+      },
+      "prop-19": {
+        "yes": 74779,
+        "no": 60214
+      },
+      "prop-20": {
+        "yes": 39004,
+        "no": 94949
+      },
+      "prop-21": {
+        "yes": 61302,
+        "no": 74232
+      },
+      "prop-22": {
+        "yes": 63880,
+        "no": 72363
+      },
+      "prop-23": {
+        "yes": 53467,
+        "no": 81498
+      },
+      "prop-24": {
+        "yes": 74771,
+        "no": 59793
+      },
+      "prop-25": {
+        "yes": 74170,
+        "no": 59516
+      },
+      "president": {
+        "Joseph R. Biden": 111534,
+        "Donald J. Trump": 26072,
+        "Roque \"Rocky\" De La Fuente Guerra": 415,
+        "Howie Hawkins": 1024,
+        "Jo Jorgensen": 1641,
+        "Gloria La Riva": 393
+      }
+    }
+  },
+  "shasta": {
+    "name": "Shasta",
+    "population": 180080,
+    "contests": {
+      "prop-14": {
+        "yes": 26196,
+        "no": 60152
+      },
+      "prop-15": {
+        "yes": 22917,
+        "no": 64282
+      },
+      "prop-16": {
+        "yes": 14685,
+        "no": 71198
+      },
+      "prop-17": {
+        "yes": 29286,
+        "no": 57787
+      },
+      "prop-18": {
+        "yes": 17193,
+        "no": 70184
+      },
+      "prop-19": {
+        "yes": 33097,
+        "no": 52021
+      },
+      "prop-20": {
+        "yes": 45380,
+        "no": 39976
+      },
+      "prop-21": {
+        "yes": 17008,
+        "no": 69337
+      },
+      "prop-22": {
+        "yes": 61000,
+        "no": 25646
+      },
+      "prop-23": {
+        "yes": 17425,
+        "no": 69127
+      },
+      "prop-24": {
+        "yes": 35821,
+        "no": 49866
+      },
+      "prop-25": {
+        "yes": 21374,
+        "no": 64365
+      },
+      "president": {
+        "Joseph R. Biden": 28889,
+        "Donald J. Trump": 57894,
+        "Roque \"Rocky\" De La Fuente Guerra": 255,
+        "Howie Hawkins": 349,
+        "Jo Jorgensen": 1197,
+        "Gloria La Riva": 177
+      }
+    }
+  },
+  "sierra": {
+    "name": "Sierra",
+    "population": 3005,
+    "contests": {
+      "prop-14": {
+        "yes": 700,
+        "no": 1176
+      },
+      "prop-15": {
+        "yes": 604,
+        "no": 1305
+      },
+      "prop-16": {
+        "yes": 456,
+        "no": 1430
+      },
+      "prop-17": {
+        "yes": 785,
+        "no": 1120
+      },
+      "prop-18": {
+        "yes": 516,
+        "no": 1398
+      },
+      "prop-19": {
+        "yes": 844,
+        "no": 1023
+      },
+      "prop-20": {
+        "yes": 780,
+        "no": 1086
+      },
+      "prop-21": {
+        "yes": 461,
+        "no": 1414
+      },
+      "prop-22": {
+        "yes": 1120,
+        "no": 758
+      },
+      "prop-23": {
+        "yes": 546,
+        "no": 1327
+      },
+      "prop-24": {
+        "yes": 812,
+        "no": 1056
+      },
+      "prop-25": {
+        "yes": 623,
+        "no": 1246
+      },
+      "president": {
+        "Joseph R. Biden": 730,
+        "Donald J. Trump": 1142,
+        "Roque \"Rocky\" De La Fuente Guerra": 12,
+        "Howie Hawkins": 13,
+        "Jo Jorgensen": 27,
+        "Gloria La Riva": 6
+      }
+    }
+  },
+  "siskiyou": {
+    "name": "Siskiyou",
+    "population": 43539,
+    "contests": {
+      "prop-14": {
+        "yes": 7882,
+        "no": 14418
+      },
+      "prop-15": {
+        "yes": 8017,
+        "no": 14633
+      },
+      "prop-16": {
+        "yes": 5525,
+        "no": 16760
+      },
+      "prop-17": {
+        "yes": 9737,
+        "no": 12854
+      },
+      "prop-18": {
+        "yes": 6152,
+        "no": 16511
+      },
+      "prop-19": {
+        "yes": 6471,
+        "no": 12548
+      },
+      "prop-20": {
+        "yes": 9607,
+        "no": 12308
+      },
+      "prop-21": {
+        "yes": 6067,
+        "no": 16042
+      },
+      "prop-22": {
+        "yes": 12995,
+        "no": 9059
+      },
+      "prop-23": {
+        "yes": 6689,
+        "no": 15493
+      },
+      "prop-24": {
+        "yes": 10140,
+        "no": 11947
+      },
+      "prop-25": {
+        "yes": 7135,
+        "no": 14876
+      },
+      "president": {
+        "Joseph R. Biden": 9456,
+        "Donald J. Trump": 12985,
+        "Roque \"Rocky\" De La Fuente Guerra": 77,
+        "Howie Hawkins": 112,
+        "Jo Jorgensen": 310,
+        "Gloria La Riva": 51
+      }
+    }
+  },
+  "solano": {
+    "name": "Solano",
+    "population": 447643,
+    "contests": {
+      "prop-14": {
+        "yes": 101713,
+        "no": 92767
+      },
+      "prop-15": {
+        "yes": 96279,
+        "no": 102014
+      },
+      "prop-16": {
+        "yes": 83669,
+        "no": 112665
+      },
+      "prop-17": {
+        "yes": 118021,
+        "no": 81173
+      },
+      "prop-18": {
+        "yes": 84095,
+        "no": 115484
+      },
+      "prop-19": {
+        "yes": 112123,
+        "no": 83515
+      },
+      "prop-20": {
+        "yes": 74232,
+        "no": 120667
+      },
+      "prop-21": {
+        "yes": 77424,
+        "no": 119302
+      },
+      "prop-22": {
+        "yes": 114893,
+        "no": 83044
+      },
+      "prop-23": {
+        "yes": 72135,
+        "no": 125507
+      },
+      "prop-24": {
+        "yes": 121371,
+        "no": 74148
+      },
+      "prop-25": {
+        "yes": 88652,
+        "no": 106164
+      },
+      "president": {
+        "Joseph R. Biden": 129344,
+        "Donald J. Trump": 67793,
+        "Roque \"Rocky\" De La Fuente Guerra": 764,
+        "Howie Hawkins": 937,
+        "Jo Jorgensen": 2427,
+        "Gloria La Riva": 599
+      }
+    }
+  },
+  "sonoma": {
+    "name": "Sonoma",
+    "population": 494336,
+    "contests": {
+      "prop-14": {
+        "yes": 105197,
+        "no": 86758
+      },
+      "prop-15": {
+        "yes": 106632,
+        "no": 88197
+      },
+      "prop-16": {
+        "yes": 95476,
+        "no": 95697
+      },
+      "prop-17": {
+        "yes": 132176,
+        "no": 62156
+      },
+      "prop-18": {
+        "yes": 95166,
+        "no": 99621
+      },
+      "prop-19": {
+        "yes": 109041,
+        "no": 82113
+      },
+      "prop-20": {
+        "yes": 55056,
+        "no": 133408
+      },
+      "prop-21": {
+        "yes": 81122,
+        "no": 109643
+      },
+      "prop-22": {
+        "yes": 95750,
+        "no": 96165
+      },
+      "prop-23": {
+        "yes": 64312,
+        "no": 126992
+      },
+      "prop-24": {
+        "yes": 104833,
+        "no": 84587
+      },
+      "prop-25": {
+        "yes": 107321,
+        "no": 82340
+      },
+      "president": {
+        "Joseph R. Biden": 153342,
+        "Donald J. Trump": 40478,
+        "Roque \"Rocky\" De La Fuente Guerra": 485,
+        "Howie Hawkins": 929,
+        "Jo Jorgensen": 1958,
+        "Gloria La Riva": 410
+      }
+    }
+  },
+  "stanislaus": {
+    "name": "Stanislaus",
+    "population": 550660,
+    "contests": {
+      "prop-14": {
+        "yes": 88777,
+        "no": 102407
+      },
+      "prop-15": {
+        "yes": 71814,
+        "no": 121082
+      },
+      "prop-16": {
+        "yes": 58533,
+        "no": 131818
+      },
+      "prop-17": {
+        "yes": 88603,
+        "no": 102934
+      },
+      "prop-18": {
+        "yes": 61916,
+        "no": 130469
+      },
+      "prop-19": {
+        "yes": 94174,
+        "no": 96332
+      },
+      "prop-20": {
+        "yes": 83585,
+        "no": 107241
+      },
+      "prop-21": {
+        "yes": 60854,
+        "no": 130832
+      },
+      "prop-22": {
+        "yes": 123034,
+        "no": 68369
+      },
+      "prop-23": {
+        "yes": 58185,
+        "no": 132981
+      },
+      "prop-24": {
+        "yes": 100943,
+        "no": 88939
+      },
+      "prop-25": {
+        "yes": 66481,
+        "no": 123841
+      },
+      "president": {
+        "Joseph R. Biden": 97430,
+        "Donald J. Trump": 94152,
+        "Roque \"Rocky\" De La Fuente Guerra": 807,
+        "Howie Hawkins": 658,
+        "Jo Jorgensen": 2195,
+        "Gloria La Riva": 615
+      }
+    }
+  },
+  "sutter": {
+    "name": "Sutter",
+    "population": 96971,
+    "contests": {
+      "prop-14": {
+        "yes": 14966,
+        "no": 24903
+      },
+      "prop-15": {
+        "yes": 12045,
+        "no": 28464
+      },
+      "prop-16": {
+        "yes": 9582,
+        "no": 30310
+      },
+      "prop-17": {
+        "yes": 15314,
+        "no": 24917
+      },
+      "prop-18": {
+        "yes": 10091,
+        "no": 30295
+      },
+      "prop-19": {
+        "yes": 17608,
+        "no": 22014
+      },
+      "prop-20": {
+        "yes": 19073,
+        "no": 20455
+      },
+      "prop-21": {
+        "yes": 9278,
+        "no": 30627
+      },
+      "prop-22": {
+        "yes": 28459,
+        "no": 11917
+      },
+      "prop-23": {
+        "yes": 10109,
+        "no": 30079
+      },
+      "prop-24": {
+        "yes": 17958,
+        "no": 21670
+      },
+      "prop-25": {
+        "yes": 11294,
+        "no": 28381
+      },
+      "president": {
+        "Joseph R. Biden": 16961,
+        "Donald J. Trump": 23864,
+        "Roque \"Rocky\" De La Fuente Guerra": 120,
+        "Howie Hawkins": 131,
+        "Jo Jorgensen": 506,
+        "Gloria La Riva": 112
+      }
+    }
+  },
+  "tehama": {
+    "name": "Tehama",
+    "population": 65084,
+    "contests": {
+      "prop-14": {
+        "yes": 7521,
+        "no": 16908
+      },
+      "prop-15": {
+        "yes": 6068,
+        "no": 18725
+      },
+      "prop-16": {
+        "yes": 4081,
+        "no": 20395
+      },
+      "prop-17": {
+        "yes": 8068,
+        "no": 16625
+      },
+      "prop-18": {
+        "yes": 4798,
+        "no": 19946
+      },
+      "prop-19": {
+        "yes": 8835,
+        "no": 15441
+      },
+      "prop-20": {
+        "yes": 12138,
+        "no": 12105
+      },
+      "prop-21": {
+        "yes": 4546,
+        "no": 19916
+      },
+      "prop-22": {
+        "yes": 16804,
+        "no": 7720
+      },
+      "prop-23": {
+        "yes": 5220,
+        "no": 19358
+      },
+      "prop-24": {
+        "yes": 10190,
+        "no": 14117
+      },
+      "prop-25": {
+        "yes": 5756,
+        "no": 18531
+      },
+      "president": {
+        "Joseph R. Biden": 8105,
+        "Donald J. Trump": 16346,
+        "Roque \"Rocky\" De La Fuente Guerra": 93,
+        "Howie Hawkins": 76,
+        "Jo Jorgensen": 327,
+        "Gloria La Riva": 58
+      }
+    }
+  },
+  "trinity": {
+    "name": "Trinity",
+    "population": 12285,
+    "contests": {
+      "prop-14": {
+        "yes": 363,
+        "no": 628
+      },
+      "prop-15": {
+        "yes": 362,
+        "no": 656
+      },
+      "prop-16": {
+        "yes": 212,
+        "no": 776
+      },
+      "prop-17": {
+        "yes": 526,
+        "no": 495
+      },
+      "prop-18": {
+        "yes": 321,
+        "no": 701
+      },
+      "prop-19": {
+        "yes": 395,
+        "no": 586
+      },
+      "prop-20": {
+        "yes": 400,
+        "no": 582
+      },
+      "prop-21": {
+        "yes": 247,
+        "no": 740
+      },
+      "prop-22": {
+        "yes": 611,
+        "no": 381
+      },
+      "prop-23": {
+        "yes": 293,
+        "no": 697
+      },
+      "prop-24": {
+        "yes": 518,
+        "no": 465
+      },
+      "prop-25": {
+        "yes": 322,
+        "no": 658
+      },
+      "president": {
+        "Joseph R. Biden": 396,
+        "Donald J. Trump": 594,
+        "Roque \"Rocky\" De La Fuente Guerra": 4,
+        "Howie Hawkins": 17,
+        "Jo Jorgensen": 25,
+        "Gloria La Riva": 11
+      }
+    }
+  },
+  "tulare": {
+    "name": "Tulare",
+    "population": 466195,
+    "contests": {
+      "prop-14": {
+        "yes": 58431,
+        "no": 82161
+      },
+      "prop-15": {
+        "yes": 51862,
+        "no": 89745
+      },
+      "prop-16": {
+        "yes": 39392,
+        "no": 101190
+      },
+      "prop-17": {
+        "yes": 58044,
+        "no": 83545
+      },
+      "prop-18": {
+        "yes": 40323,
+        "no": 101325
+      },
+      "prop-19": {
+        "yes": 62044,
+        "no": 77000
+      },
+      "prop-20": {
+        "yes": 74957,
+        "no": 65146
+      },
+      "prop-21": {
+        "yes": 36885,
+        "no": 103630
+      },
+      "prop-22": {
+        "yes": 94646,
+        "no": 45570
+      },
+      "prop-23": {
+        "yes": 43076,
+        "no": 96974
+      },
+      "prop-24": {
+        "yes": 66417,
+        "no": 72895
+      },
+      "prop-25": {
+        "yes": 40302,
+        "no": 98650
+      },
+      "president": {
+        "Joseph R. Biden": 64320,
+        "Donald J. Trump": 75471,
+        "Roque \"Rocky\" De La Fuente Guerra": 607,
+        "Howie Hawkins": 458,
+        "Jo Jorgensen": 1449,
+        "Gloria La Riva": 514
+      }
+    }
+  },
+  "tuolumne": {
+    "name": "Tuolumne",
+    "population": 54478,
+    "contests": {
+      "prop-14": {
+        "yes": 10537,
+        "no": 18630
+      },
+      "prop-15": {
+        "yes": 8780,
+        "no": 20738
+      },
+      "prop-16": {
+        "yes": 6124,
+        "no": 22958
+      },
+      "prop-17": {
+        "yes": 11293,
+        "no": 18149
+      },
+      "prop-18": {
+        "yes": 6965,
+        "no": 22549
+      },
+      "prop-19": {
+        "yes": 11836,
+        "no": 17005
+      },
+      "prop-20": {
+        "yes": 13321,
+        "no": 15428
+      },
+      "prop-21": {
+        "yes": 6604,
+        "no": 22389
+      },
+      "prop-22": {
+        "yes": 19236,
+        "no": 9833
+      },
+      "prop-23": {
+        "yes": 6336,
+        "no": 22792
+      },
+      "prop-24": {
+        "yes": 11667,
+        "no": 17150
+      },
+      "prop-25": {
+        "yes": 8510,
+        "no": 20334
+      },
+      "president": {
+        "Joseph R. Biden": 11808,
+        "Donald J. Trump": 17302,
+        "Roque \"Rocky\" De La Fuente Guerra": 87,
+        "Howie Hawkins": 139,
+        "Jo Jorgensen": 426,
+        "Gloria La Riva": 58
+      }
+    }
+  },
+  "ventura": {
+    "name": "Ventura",
+    "population": 846006,
+    "contests": {
+      "prop-14": {
+        "yes": 203747,
+        "no": 201541
+      },
+      "prop-15": {
+        "yes": 174875,
+        "no": 236669
+      },
+      "prop-16": {
+        "yes": 154853,
+        "no": 252345
+      },
+      "prop-17": {
+        "yes": 220082,
+        "no": 190394
+      },
+      "prop-18": {
+        "yes": 167923,
+        "no": 243281
+      },
+      "prop-19": {
+        "yes": 202893,
+        "no": 201016
+      },
+      "prop-20": {
+        "yes": 160597,
+        "no": 240656
+      },
+      "prop-21": {
+        "yes": 149927,
+        "no": 254937
+      },
+      "prop-22": {
+        "yes": 243815,
+        "no": 163726
+      },
+      "prop-23": {
+        "yes": 138620,
+        "no": 268220
+      },
+      "prop-24": {
+        "yes": 222336,
+        "no": 180208
+      },
+      "prop-25": {
+        "yes": 166702,
+        "no": 234513
+      },
+      "president": {
+        "Joseph R. Biden": 248349,
+        "Donald J. Trump": 159791,
+        "Roque \"Rocky\" De La Fuente Guerra": 1240,
+        "Howie Hawkins": 1745,
+        "Jo Jorgensen": 4978,
+        "Gloria La Riva": 954
+      }
+    }
+  },
+  "yolo": {
+    "name": "Yolo",
+    "population": 220500,
+    "contests": {
+      "prop-14": {
+        "yes": 35508,
+        "no": 27715
+      },
+      "prop-15": {
+        "yes": 36453,
+        "no": 27713
+      },
+      "prop-16": {
+        "yes": 30308,
+        "no": 33061
+      },
+      "prop-17": {
+        "yes": 41394,
+        "no": 22772
+      },
+      "prop-18": {
+        "yes": 31597,
+        "no": 32655
+      },
+      "prop-19": {
+        "yes": 35383,
+        "no": 27486
+      },
+      "prop-20": {
+        "yes": 20294,
+        "no": 42360
+      },
+      "prop-21": {
+        "yes": 26994,
+        "no": 36059
+      },
+      "prop-22": {
+        "yes": 32306,
+        "no": 31133
+      },
+      "prop-23": {
+        "yes": 22018,
+        "no": 40978
+      },
+      "prop-24": {
+        "yes": 33393,
+        "no": 29305
+      },
+      "prop-25": {
+        "yes": 33022,
+        "no": 29487
+      },
+      "president": {
+        "Joseph R. Biden": 47504,
+        "Donald J. Trump": 16128,
+        "Roque \"Rocky\" De La Fuente Guerra": 167,
+        "Howie Hawkins": 301,
+        "Jo Jorgensen": 648,
+        "Gloria La Riva": 186
+      }
+    }
+  },
+  "yuba": {
+    "name": "Yuba",
+    "population": 78668,
+    "contests": {
+      "prop-14": {
+        "yes": 10055,
+        "no": 16585
+      },
+      "prop-15": {
+        "yes": 8149,
+        "no": 18744
+      },
+      "prop-16": {
+        "yes": 6031,
+        "no": 20575
+      },
+      "prop-17": {
+        "yes": 10603,
+        "no": 16215
+      },
+      "prop-18": {
+        "yes": 6779,
+        "no": 20102
+      },
+      "prop-19": {
+        "yes": 11538,
+        "no": 14974
+      },
+      "prop-20": {
+        "yes": 12774,
+        "no": 13389
+      },
+      "prop-21": {
+        "yes": 6640,
+        "no": 19662
+      },
+      "prop-22": {
+        "yes": 18076,
+        "no": 8332
+      },
+      "prop-23": {
+        "yes": 6899,
+        "no": 19394
+      },
+      "prop-24": {
+        "yes": 12355,
+        "no": 13819
+      },
+      "prop-25": {
+        "yes": 7671,
+        "no": 18250
+      },
+      "president": {
+        "Joseph R. Biden": 10343,
+        "Donald J. Trump": 16210,
+        "Roque \"Rocky\" De La Fuente Guerra": 133,
+        "Howie Hawkins": 115,
+        "Jo Jorgensen": 446,
+        "Gloria La Riva": 82
+      }
+    }
+  }
+}
